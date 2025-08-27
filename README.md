@@ -23,8 +23,6 @@ Portofolio of Muran adalah sebuah website portofolio personal yang menampilkan i
 
 - Daftar project dengan penjelasan singkat setiap aplikasi/website
 
-- Desain responsif yang mendukung tampilan desktop maupun mobile
-
 - Hover effect unik pada ikon media sosial
 
 - Kontak bisa langsung diakses melalui tombol klik 
